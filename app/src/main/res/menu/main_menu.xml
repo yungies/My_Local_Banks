@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_show_website"
+        android:title="@string/menu_show_website" />
+    <item
+        android:id="@+id/menu_contact_bank"
+        android:title="@string/menu_contact_bank" />
+    <item
+        android:id="@+id/menu_translate"
+        android:title="@string/translate" />
+</menu>
+
